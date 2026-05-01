@@ -1,4 +1,6 @@
-# Algoritmos de Ordenamiento - Diagramas UML
+# Algoritmos de Ordenamiento - Diagramas UML 
+## Iker Alejandro Soto Mata
+### Salvando el semestre
 
 ## 1. Bubble Sort
 
@@ -140,18 +142,4 @@ flowchart TD
 
 ---
 
-## Comparación de Complejidad
 
-| Algoritmo | Mejor Caso | Caso Promedio | Peor Caso | Espacio |
-|-----------|-----------|---------------|----------|---------|
-| Bubble Sort | O(n) | O(n²) | O(n²) | O(1) |
-| Selection Sort | O(n²) | O(n²) | O(n²) | O(1) |
-| Insertion Sort | O(n) | O(n²) | O(n²) | O(1) |
-| Merge Sort | O(n log n) | O(n log n) | O(n log n) | O(n) |
-| Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n) |
-| Random Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n) |
-| Counting Sort | O(n + k) | O(n + k) | O(n + k) | O(k) |
-
----
-
-*Última actualización: Mayo 2026*
